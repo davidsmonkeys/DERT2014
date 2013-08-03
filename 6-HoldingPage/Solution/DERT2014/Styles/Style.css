@@ -1,0 +1,92 @@
+﻿#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif;}
+#mc-embedded-subscribe{float:left;}
+#mc_embed_signup input {
+    border: 1px solid #999999;
+}
+#mc_embed_signup form {
+    display: block;
+    padding: 10px 0 !important;
+    position: relative;
+    text-align: left;
+    width: 500px;
+	margin: 20px 0px
+}
+
+#mc_embed_signup input.email {
+    display: block;
+    margin: 0 14px 10px 0 !important; 
+    min-width: 130px;
+    padding: 10px 0 !important;
+    text-indent: 5px;
+    width: 58%;
+	background-color:#090A0F;
+	color:#fff;
+}
+
+p
+{
+	margin:0px;
+}
+
+body 
+{
+	background-color:#090A0F;
+	color:#ffffff;
+	font-family: Helvetica ,Arial , sans-serif;
+}
+
+.container
+{
+	background-color:#090A0F;
+	width:960px;
+	height:800px;
+	margin:auto;
+}
+
+.logo
+{
+	margin:20px 0px 10px 210px;
+}
+
+.owl
+{
+	margin:0px 0px 0px 310px;
+}
+
+.date
+{
+	margin:0px 0px 0px 312px;
+}
+
+.signup
+{
+	margin:0px 0px 0px 290px;
+}
+
+.signup p
+{
+	text-align:center;
+	width:370px;
+}
+
+
+.submitbutton
+{
+	background-image:url('../images/Dert-2014-Holding-submit-trans.png');
+	font-family: Helvetica ,Arial , sans-serif;
+	width:96px;
+	height:38px;
+}
+
+.submitbutton:hover
+{
+	background-image:url('../images/Dert-2014-Holding-submit-trans-rollover.png');
+}
+
+.email
+{
+	float:left;
+	width:300px;
+}
+
+
